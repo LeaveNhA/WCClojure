@@ -4,7 +4,7 @@ A Clojure library designed to generate Hadoop application to count words based o
 
 ## Compile
 
-Compile it with `lein uberjar`. Application jar is at `./target/gd-0.1-standalone.jar`. The output file name might vary based on the version of the project. You can simply follow the output of the compilation process to aim the final UberJar file.
+Compile it with `lein uberjar`. Application jar is at `./target/wcclj-0.1.0-standalone.jar`. The output file name might vary based on the version of the project. You can simply follow the output of the compilation process to aim the final UberJar file.
 
 ## Clean
 
